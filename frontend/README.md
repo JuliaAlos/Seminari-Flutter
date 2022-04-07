@@ -1,5 +1,3 @@
-#Para todo el que lo lea
+# Para todo el que lo lea
 
 Buenos dias
-
-#Amen
